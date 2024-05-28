@@ -1,0 +1,1 @@
+Git Repo: a central place where git stores all the information about a project's files and history
